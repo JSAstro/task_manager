@@ -6,6 +6,11 @@
             <file>file:/C:/Users/Jordan/Documents/TaskManager/TaskManager/src/main/TaskManager.java</file>
             <file>file:/C:/Users/Jordan/Documents/TaskManager/TaskManager/src/model/Usuario.java</file>
             <file>file:/C:/Users/Jordan/Documents/TaskManager/TaskManager/src/model/Task.java</file>
+            <file>file:/C:/Users/Jordan/Documents/TaskManager/TaskManager/src/model/TypeTask.java</file>
+            <file>file:/C:/Users/Jordan/Documents/TaskManager/TaskManager/src/model/CompoundTask.java</file>
+            <file>file:/C:/Users/Jordan/Documents/TaskManager/TaskManager/src/Control/Controller.java</file>
+            <file>file:/C:/Users/Jordan/Documents/TaskManager/TaskManager/src/ui/Login.java</file>
+            <file>file:/C:/Users/Jordan/Documents/TaskManager/TaskManager/src/ui/Register.java</file>
         </group>
     </open-files>
 </project-private>
