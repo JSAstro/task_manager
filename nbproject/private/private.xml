@@ -3,14 +3,7 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/Jordan/Documents/TaskManager/TaskManager/src/main/TaskManager.java</file>
-            <file>file:/C:/Users/Jordan/Documents/TaskManager/TaskManager/src/model/Usuario.java</file>
-            <file>file:/C:/Users/Jordan/Documents/TaskManager/TaskManager/src/model/Task.java</file>
-            <file>file:/C:/Users/Jordan/Documents/TaskManager/TaskManager/src/model/TypeTask.java</file>
-            <file>file:/C:/Users/Jordan/Documents/TaskManager/TaskManager/src/model/CompoundTask.java</file>
-            <file>file:/C:/Users/Jordan/Documents/TaskManager/TaskManager/src/Control/Controller.java</file>
-            <file>file:/C:/Users/Jordan/Documents/TaskManager/TaskManager/src/ui/Login.java</file>
-            <file>file:/C:/Users/Jordan/Documents/TaskManager/TaskManager/src/ui/Register.java</file>
+            <file>file:/home/astro/Desktop/task_manager/task_manager/src/ui/Login.java</file>
         </group>
     </open-files>
 </project-private>
