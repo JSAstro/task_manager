@@ -3,13 +3,18 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/Jordan/Documents/projects/task_manager/src/ui/Login.java</file>
-            <file>file:/C:/Users/Jordan/Documents/projects/task_manager/src/ui/login.fxml</file>
-            <file>file:/C:/Users/Jordan/Documents/projects/task_manager/src/ui/LoginController.java</file>
-            <file>file:/C:/Users/Jordan/Documents/projects/task_manager/src/ui/MainWin.java</file>
-            <file>file:/C:/Users/Jordan/Documents/projects/task_manager/src/model/Usuario.java</file>
-            <file>file:/C:/Users/Jordan/Documents/projects/task_manager/src/model/TypeTask.java</file>
-            <file>file:/C:/Users/Jordan/Documents/projects/task_manager/src/model/Task.java</file>
+            <file>file:/C:/Users/Jordan/Documents/projects/task_manager/src/App.java</file>
+            <file>file:/C:/Users/Jordan/Documents/projects/task_manager/src/ViewModel/LoginViewController.java</file>
+            <file>file:/C:/Users/Jordan/Documents/projects/task_manager/src/ViewModel/RegisterViewController.java</file>
+            <file>file:/C:/Users/Jordan/Documents/projects/task_manager/src/ViewModel/MainTaskViewController.java</file>
+            <file>file:/C:/Users/Jordan/Documents/projects/task_manager/src/Model/dao/UserDAO.java</file>
+            <file>file:/C:/Users/Jordan/Documents/projects/task_manager/src/Model/dao/TaskDAO.java</file>
+            <file>file:/C:/Users/Jordan/Documents/projects/task_manager/src/Model/dao/DBConnection.java</file>
+            <file>file:/C:/Users/Jordan/Documents/projects/task_manager/src/Model/service/AuthService.java</file>
+            <file>file:/C:/Users/Jordan/Documents/projects/task_manager/src/Model/TaskNode.java</file>
+            <file>file:/C:/Users/Jordan/Documents/projects/task_manager/src/Model/TaskLeaf.java</file>
+            <file>file:/C:/Users/Jordan/Documents/projects/task_manager/src/Model/TaskGroup.java</file>
+            <file>file:/C:/Users/Jordan/Documents/projects/task_manager/src/Model/dao/InMemoryTaskRepository.java</file>
         </group>
     </open-files>
 </project-private>

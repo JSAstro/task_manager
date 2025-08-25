@@ -3,11 +3,15 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
 package Model;
-
+import java.util.*;
 /**
  *
  * @author Jordan
  */
-public class TaskComponent {
-    
+public interface TaskNode {
+    UUID getId();
+    String getTitulo();
+    Optional<String> getDescription();
+    List<TaskNode> getHijos();
+    default boolean isGroup() { return getHijos().isEmpty();}
 }
